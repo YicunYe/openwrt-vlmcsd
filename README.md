@@ -1,2 +1,2 @@
 # openwrt-vlmcsd
-This package Copy Frome lede project of coolsnowwolf.
+This package copy from lede project of coolsnowwolf.
